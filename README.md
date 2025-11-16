@@ -18,7 +18,7 @@ Berikut adalah *screenshot* dari antarmuka pengguna aplikasi Catatan Harian:
 | Keterangan | Detail |
 | :--- | :--- |
 | **Nama** | Abdi Rahman Kholik |
-| **NIM** | 2310010693 |
+| **NIM** | 2310010632 |
 | **Mata Kuliah** | Pemrograman Berorientasi Objek II |
 
 ## ✨ Fitur Utama Aplikasi
